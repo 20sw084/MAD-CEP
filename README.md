@@ -3,12 +3,11 @@
 CEP for Mobile App Development Course.
 
 # Table of Contents
-Introduction
-Features
-Installation
-Usage
-Contributing
-License
+1. Introduction
+2. Features
+3. Installation
+4. Contributing
+
 # Introduction
 The Farm Management System is a comprehensive software solution designed to assist farmers and agricultural organizations in efficiently managing their farm operations. This system provides a user-friendly interface and a range of features to streamline tasks such as crop management, livestock management, resource allocation, and financial tracking.
 
