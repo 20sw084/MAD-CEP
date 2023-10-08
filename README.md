@@ -1,6 +1,6 @@
 # intellifarm
 
-Our FYP.
+Our CEP for Mobile App Development Course.
 
 ## Getting Started
 
