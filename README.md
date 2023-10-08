@@ -1,6 +1,6 @@
 # intellifarm
 
-Our CEP for Mobile App Development Course.
+CEP for Mobile App Development Course.
 
 ## Getting Started
 
