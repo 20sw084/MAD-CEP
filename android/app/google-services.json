@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757737347673",
+    "project_id": "intellifarm-d9800",
+    "storage_bucket": "intellifarm-d9800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757737347673:android:e5ac9e8e32ad3c1306ef48",
+        "android_client_info": {
+          "package_name": "com.example.intellifarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKZYYgcjGzetILLhNIRzT3eGG9u481q_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
